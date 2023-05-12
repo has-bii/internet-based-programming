@@ -24,4 +24,5 @@ The projects are:
  
  Click [this](http://88.227.112.175) to open the website.
 
-![My Image](img/
+![My Image](img/IMG_0173.jpeg)
+![My Image](img/IMG_0174.jpeg)
