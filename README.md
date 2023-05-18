@@ -22,7 +22,7 @@ The projects are:
  
  ### Preview
  
- Click http://students.has-bii.online/ to open the website.
+ Click students.has-bii.online to open the website.
 
 ![My Image](img/IMG_0173.jpeg)
 ![My Image](img/IMG_0174.jpeg)
