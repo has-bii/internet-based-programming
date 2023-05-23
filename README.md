@@ -6,6 +6,13 @@ This repository is my own repository for Internet Based Programming lecture.
 
 **Student Number:** 2010213592
 
+## Homeworks
+Click [students.has-bii.online](http://students.has-bii.online:2525/) to open the homeworks.
+List of homeworks:
+- HW-1
+- HW-2
+- HW-3
+
 ## Projects
 During the semester I take the lecture, I have been working on some projects. The objective of all the projects is to learn and practice the lecture.
 
