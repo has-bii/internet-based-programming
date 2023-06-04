@@ -18,10 +18,7 @@ During the semester I take the lecture, I have been working on some projects. Th
 
 The projects are:
 - **Student Database**
-- **Publisher Webapp** (Laravel & VueJs)
-- **Power Human Resource** (Laravel & VueJs)
-
-  I want to explain Student Database Website on this repo, and explain the others on the other repos.
+- **Publisher Webapp** [Laravel Project of IBP](https://github.com/has-bii/publisher-webapp)
   
  ### Student Database
  A website about student databases is a platform designed to display and store students' informations.
